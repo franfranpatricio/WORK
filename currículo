@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <link rel="shortcut icon" type="image/x-icon" href="file:///C:/Users/Fran/Downloads/favicon.ico">
+    <meta charset="utf-8">
+    <meta name="description" content="Currículo Daniel Moreira">
+    <title>cv Franciely Leão Patricio</title>
+    <link type='text/css' rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+
+<body>
+    <h1>Franciely Leão patricio</h1>
+
+    <div class="contato">
+        <div class="container">
+            <h2><strong>Contato</strong></h2>
+            <p><strong>Endereço: </strong> Luiz de Gregório- fazenda, Itajaí- SC</p>
+            <p id="email"><strong>Email: </strong>franfranpatricio@gmail.com </p>
+            <p><strong>Telefone: </strong>+55 (47) 9 84490891 </p>
+        </div>
+    </div>
+
+    <h3></h3>
+
+    <div class="conhecimentos">
+        <div class="container">
+            <h2>Conhecimentos</h2>
+
+
+            <p>Softwares Gráficos - <strong>Intermediário</strong> </p>
+            <p>Pacote Office – <strong>Intermediário</strong> </p>
+            <p>Inglês - <strong>Intermediário</strong></p>
+            <p>Redes Sociais - <strong>Intermediário</strong> </p>
+
+        </div>
+    </div>
+
+    <h3></h3>
+
+    <div class="formacao">
+        <div class="container">
+            <h2>Formação Acadêmica</h2>
+
+            <p>Universidade do Vale do Itajaí </p>
+            Design Gráfico - 4° Período
+
+        </div>
+    </div>
+    <h3></h3>
+
+    <div class="experiencia">
+        <div class="container">
+            <h2>Experiência</h2>
+
+            <div class="item">
+                <span>[20/01/2015] - [14/02/2017]</span><br>
+                <h4>Auxiliar administrativo | ACADEMIA DE MÚSICA DOXOLOGIA, ITAJAÍ - SC</h4></br>
+                <p>Entrega de materiais, organização de materiais e documentos, controle de entrada e saída de
+                    materiais,
+                    registro
+                    de frequências de alunos e fiscalização da ordem nos ambientes.</p>
+            </div>
+
+            <div class="item">
+                <span>[TEMPORÁRIO]</span><br>
+                <h4>Operador de vendas e serviços | C&A, BALNEÁRIO CAMBORIÚ - SC</h4>
+                    <p>Auxiliar na organização da loja, organização do estoque, atendimento aos clientes, capitar clientes
+                    e
+                    auxílio no
+                    caixa.</p>
+            </div>
+            <div class="item">
+                <h4>Auxiliar administrativo/Segurança do trabalho | ALCON, CAMBORIÚ - SC</h4>
+                    <p>Atuação em rotinas administrativas relacionadas à segurança e saúde do trabalho, auxílio na
+                    realização
+                    de
+                    treinamentos, inspeções de área, seleção e inspeção de uso de EPI’S, checklists, investigação e
+                    análise
+                    de
+                    acidentes de trabalho e elaboração de documentos.</p>
+            </div>
+            <div class="item">
+                <span>[22/10/2020] - [Atual]</span><br>
+                <h4>Designer Gráfico | MFITPERSONAL, ITAJAÍ - SC </h4>
+                <p>
+
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <h3></h3>
+
+    <div class="atividades">
+        <div class="container">
+            <h2>Atividades e cursos</h2>
+
+            <p><strong>Projeto voluntário</strong> | UNIVERSIDADE LIVRE DO ESPORTE </p>
+            Desenvolvimento da apresentação de marca.
+            <p><strong>Arte para plataformas de streaming</strong> | CHICO ANADOM </p>
+            Criação layouts e capas.
+            <p><strong>Sociedade e trabalho</strong> | UNIVERSIDADE DO VALE DO ITAJAÍ </p>
+            Criação de uma empresa e venda de produtos.
+            <p><strong>Logística</strong> | CEBRAC </p>
+            <p><strong>Design Gráfico Para Mídias Sociais E Impressões Gráficas</strong> | HOTMART (CURSO ONLINE)
+            </p>
+
+        </div>
+    </div>
+
+    <h4> &nbsp;&nbsp;</h4>
+
+    <h2>
+        <div class="social-icons">
+            <a href="https://www.linkedin.com/in/franciely-patricio-057931127/" target="_blank"><i
+                    class=" fa fa-linkedin"></i></a>
+            <a href="https://www.instagram.com/13thflox/" target="_blank"><i class="fa fa-instagram"></i></a>
+            <a href="https://www.behance.net/francielyleao" target="_blank"><i class="fa fa-behance"></i></a>
+        </div>
+    </h2>
+</body>
+
+</html>
